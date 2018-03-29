@@ -7,6 +7,4 @@ marketing, comercial, produção, financeiro, compras, RH, logística e qualidad
 As Atribuições, Responsabilidades diárias, funções do departamento e como o profissional entrevistado se comunica com seus colegas/subordinados/chefes
 
 <strong>Questionário:</strong>.<br>
-1 - Quais as funções do seu departamento?
-2 - Quais suas atribuições diárias?
-3 - Usa alguma ferramenta para auxiliar nas tarefas? Se sim, qual?
+https://docs.google.com/forms/d/e/1FAIpQLSf1RsbR9tgdAyb-qO6_K24MYyggZYpMCyZId0dA6Gy21HZFOw/viewform?usp=sf_link
